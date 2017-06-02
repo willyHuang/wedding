@@ -1,0 +1,13 @@
+{
+	"development":{
+	    "username": "XXX",
+	    "password": "XXX",
+	    "database": "XXX",
+	    "option":{
+	    	"host": "XXX.XXX.XXX.XXX",
+	    	"port": "2819",
+	   		"dialect": "mssql"
+	    }
+	    
+	}
+}
